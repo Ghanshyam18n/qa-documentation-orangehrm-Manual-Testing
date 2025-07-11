@@ -19,7 +19,7 @@ This repository contains a complete manual testing project performed on the Oran
 
  Folder Structure - 
  manual-testing-orangehrm/
-├── Test_Plan/
+├── Test_Plan/  
 ├── Test_Scenarios/
 ├── Test_Cases/
 ├── Bug_Report/
@@ -32,12 +32,6 @@ URL: https://opensource-demo.orangehrmlive.com
 Human Resource Application
 
 Developed in MySQL, PHP and Apache HTTP Servers
-
-Linux Environment
-
-Two different modules:
-Admin Module (Just used by HR Team)
-ESS (Employee Self Service) Module used by individual employee
 Pre-requisite
 You need to login as Admin account then create ESS user account.
 
@@ -45,5 +39,3 @@ ESS user account (Data used)
 Username: pavan@12345
 
 Password: pavan@12345
-
-Testing tasks:
