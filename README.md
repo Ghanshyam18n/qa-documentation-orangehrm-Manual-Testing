@@ -28,6 +28,7 @@ This repository contains a complete manual testing project performed on the Oran
 
 Application: Orange HRM
 URL: https://opensource-demo.orangehrmlive.com
+
 Username : Admin
 
 Password : admin123
