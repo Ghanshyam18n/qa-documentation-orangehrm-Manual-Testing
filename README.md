@@ -28,14 +28,6 @@ This repository contains a complete manual testing project performed on the Oran
 
 Application: Orange HRM
 URL: https://opensource-demo.orangehrmlive.com
+Username : Admin
 
-Human Resource Application
-
-Developed in MySQL, PHP and Apache HTTP Servers
-Pre-requisite
-You need to login as Admin account then create ESS user account.
-
-ESS user account (Data used)
-Username: pavan@12345
-
-Password: pavan@12345
+Password : admin123
